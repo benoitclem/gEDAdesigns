@@ -1,0 +1,41 @@
+unnamed_net25	R5-1 LED3-1 
+unnamed_net24	R4-2 LED2-1 
+unnamed_net23	TP4-1 U2-9 
+Vbat0	P1-1 R2-2 BT1-1 
+unnamed_net22	A1-1 C3-2 L2-2 
+unnamed_net21	U2-11 U1-40 
+INT1/CS1	P1-12 TP17-1 U1-39 
+Vpp	P1-13 U1-38 
+UART_RX	P1-8 TP16-1 U1-37 
+UART_TX	P1-7 TP15-1 U1-36 
+unnamed_net20	L2-1 C1-2 U1-35 
+I2C_SCL	P1-6 R6-2 TP14-1 U1-33 
+I2C_SDA	P1-5 TP19-1 R7-2 U1-32 
+unnamed_net19	Y2-1 U1-30 
+unnamed_net18	Y2-3 U1-29 
+INT2/CS2	P1-4 TP18-1 U1-28 
+unnamed_net17	TP21-1 U1-27 
+SWCLK	P1-3 U1-26 
+SWDIO	P1-2 U1-25 
+unnamed_net16	R4-1 U1-24 
+unnamed_net15	R1-2 U1-23 
+unnamed_net14	R5-2 U1-22 
+unnamed_net13	L1-1 U1-21 
+unnamed_net12	TP11-1 U1-20 
+Vdcdc	C6-1 U1-31 C2-1 L1-2 U1-19 
+unnamed_net11	TP12-1 U1-18 
+unnamed_net10	TP20-1 R8-2 U1-17 
+GND	Y2-4 Y2-2 P1-14 LED3-2 LED2-2 U2-5 U2-10 U2-3 U2-13 U2-16 U2-12 A1-2 BT1-2 C6-2 C5-2 C4-1 C3-1 C2-2 R1-1 C1-1 U1-34 R8-1 U1-41 U1-16 
+MISO	P1-11 U2-7 U1-8 
+unnamed_net9	Y1-1 U1-11 
+unnamed_net8	Y1-2 U1-12 
+unnamed_net7	TP13-1 U1-13 
+Vbat	R7-1 R6-1 U2-1 U2-14 C4-2 C5-1 R2-1 U1-14 U1-15 
+SCLK	P1-9 U2-4 U1-10 
+MOSI	P1-10 U2-6 U1-9 
+unnamed_net6	U2-8 U1-7 
+unnamed_net5	TP10-1 U1-6 
+unnamed_net4	TP9-1 U1-4 
+unnamed_net3	TP8-1 U1-3 
+unnamed_net2	TP7-1 U1-2 
+unnamed_net1	TP6-1 U1-1 
